@@ -1,2 +1,2 @@
-# Lazarus-Fortune-voronoi-with-binary-tree
-This project’s goal was to re-implement in Lazarus the companion python Voronoi calculation. 
+# Lazarus-Fortune-voronoi-with-binary-trees
+This project’s goal was to re-implement in Lazarus the companion python Voronoi calculation. Lazarus, being a close kin of C++, provides a time efficient alternative to the interpreted python code. The Lazarus implementation has the same provisions as the code in python: both the beach-front and priority queue are implemented as self-balancing AVL trees. Included with this submission is output from the Lazarus program for 24 random points.
